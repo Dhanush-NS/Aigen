@@ -1,4 +1,4 @@
-# 🚀 AI-Gen: Intelligent Content & Image Explorer
+# 🚀 AI-Gen: Intelligent Content & Image Generator
 
 > **An AI-powered full-stack application that combines intelligent web search with AI image generation**
 
@@ -400,3 +400,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ by the AI-Gen Team**
 
 *Transforming ideas into intelligent experiences, one query at a time.*
+
