@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input, button, textarea {
+  @apply border rounded px-3 py-2;
+}
+.card { @apply bg-white rounded-2xl shadow p-4; }
