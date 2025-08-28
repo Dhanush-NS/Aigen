@@ -20,7 +20,8 @@ Transform your queries into insights and your imagination into visuals with our 
   
   <img width="1900" height="756" alt="image" src="https://github.com/user-attachments/assets/9a4f0074-e6d4-419c-9d95-c49c22ae9315" />
   <img width="1892" height="925" alt="image" src="https://github.com/user-attachments/assets/ec3fd0e6-9769-4fe6-be07-3062fd91dd08" />
-  <img width="1334" height="851" alt="image" src="https://github.com/user-attachments/assets/1366b2a1-0878-466d-a4d1-5655a25b7116" />
+  <img width="1427" height="643" alt="image" src="https://github.com/user-attachments/assets/82eb399d-88d6-446a-9111-94853b8aa77b" />
+
 
 
 
@@ -406,5 +407,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ by the AI-Gen Team**
 
 *Transforming ideas into intelligent experiences, one query at a time.*
+
 
 
